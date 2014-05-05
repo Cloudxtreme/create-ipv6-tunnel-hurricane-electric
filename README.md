@@ -1,6 +1,4 @@
-  **BTC donations**: `1NANWvtGH8u3bzwT17DgYfBqxbjjuQZKrx`
-
-  **LTC donations**: `LWpc6xfL2W9CH9Qse7Pci6CEvuSQUyEyD6`
+  **BTC donations**: `1DzPaoarz8pCV8wMg96hAGYgW2coJd798K`
 
 # What does it do?
 Partially-automates making an IPv6 tunnel for [passing](http://www.jacobsalmela.com/earning-the-ipv6-certification-from-hurricane-electric-on-mac-os-x/) the Hurricane Electric [IPv6 Certification](http://ipv6.he.net).  Instead of manually entering all the commands, you can just run the script passing the correct IP addresses as arguments.
